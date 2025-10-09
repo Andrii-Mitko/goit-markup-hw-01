@@ -1,3 +1,1 @@
-git add .
-git commit -m "
-git push
+goit-markup-hw-01
